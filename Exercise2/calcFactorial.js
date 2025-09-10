@@ -6,5 +6,3 @@ const calculateFactorial = (n) => {
   }
   return factorial;
 };
-
-console.log(calculateFactorial(2));
