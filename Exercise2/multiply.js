@@ -1,1 +1,1 @@
-const mult = (x,y) => x * y;
+const multiplyNumbers = (x, y) => x * y;
